@@ -713,10 +713,10 @@ A small dog that misses home, with a sad look on its face and its tail tucked be
 4.不要使用代码块，不要描述其他内容，不要解释；  
 5.根据我输入的内容生成对应格式；  
 第一个输入内容：小狗在沙滩奔跑  
-
+<!-- 
 # Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=PlexPt/awesome-chatgpt-prompts-zh&type=Date)](https://star-history.com/#PlexPt/awesome-chatgpt-prompts-zh&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=PlexPt/awesome-chatgpt-prompts-zh&type=Date)](https://star-history.com/#PlexPt/awesome-chatgpt-prompts-zh&Date) -->
 
 ## 感谢
 
