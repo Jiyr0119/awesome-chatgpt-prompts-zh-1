@@ -1,3 +1,6 @@
 tmp
 .idea
 *.iml
+node_modules
+.temp
+.cache
