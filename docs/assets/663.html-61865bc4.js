@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-c62e7514","path":"/question/663.html","title":"","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"question/663.md"}');export{t as data};
