@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-51631128","path":"/USEAGE.html","title":"一些有趣的玩法","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1681133445000,"contributors":[{"name":"高俊杰","email":"gaojunjie@sunline.cn","commits":1}]},"filePathRelative":"USEAGE.md"}');export{t as data};
