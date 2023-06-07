@@ -15,7 +15,7 @@ ChatGPT 是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
   <p>本LOGO是由人工智能生成的，非常酷炫！</p>
 </div>
 
-### **ChatGPT 成品独享帐号：[购买](https://shop.digitchoice.com?from=1850)**
+<!-- ### **ChatGPT 成品独享帐号：[购买](https://shop.digitchoice.com?from=1850)** -->
 
 ### **ChatGPT 学习网络工具：[购买](https://ccave.com/auth/register?code=9mVS)**
 
@@ -634,6 +634,6 @@ ChatGPT 是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 [![Star History Chart](https://api.star-history.com/svg?repos=PlexPt/awesome-chatgpt-prompts-zh&type=Date)](https://star-history.com/#PlexPt/awesome-chatgpt-prompts-zh&Date) -->
 
-## 感谢
+<!-- ## 感谢
 
-[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) 本文部分内容翻译自此
+[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) 本文部分内容翻译自此 -->
